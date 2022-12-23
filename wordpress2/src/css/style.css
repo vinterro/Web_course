@@ -269,7 +269,8 @@ h2.title {
 
 .gift {
     min-height: 628px;
-    color: #efefef;
+    margin-top: 0;
+    background-color: #efefef;
 }
 
 .gift .gift_img {
@@ -281,7 +282,7 @@ h2.title {
     min-height: 174px;
 
    
-    margin-top: 86px;
+    padding-top: 86px;
 }
 
 .gift .gift_img img[alt="icon1"] {
@@ -311,6 +312,7 @@ h2.title {
 
 .registration {
     min-height: 515px;
+    
     
 }
 
